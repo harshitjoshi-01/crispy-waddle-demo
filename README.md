@@ -1,2 +1,6 @@
-# crispy-waddle-demo
-this is my first git repository 
+# Crispy Waddle Demo
+
+Hi from Git CLI!
+
+- Setted up SSH auth.
+- This is pushed from cli.
